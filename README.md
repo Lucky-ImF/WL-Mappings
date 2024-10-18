@@ -6,6 +6,7 @@ The latest mapping file was created using [UE4SS](https://github.com/UE4SS-RE/RE
 
 | Build      | UE version | Mapping file              |
 | ---------- | ---------- | ------------------------- |
+| 2024.10.17 | UE 5.4     | `Mappings_20241017.usmap` |
 | 2024.08.22 | UE 5.4     | `Mappings_20240822.usmap` |
 | 2024.06.14 | UE 5.3     | `Mappings_20240614.usmap` |
 | 2024.04.19 | UE 5.3     | `Mappings_20240419.usmap` |
