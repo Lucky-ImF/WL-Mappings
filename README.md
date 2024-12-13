@@ -6,6 +6,7 @@ The latest mapping file was created using [UE4SS](https://github.com/UE4SS-RE/RE
 
 | Build      | UE version | Mapping file              |
 | ---------- | ---------- | ------------------------- |
+| 2024.12.13 | UE 5.4     | `Mappings_20241213.usmap` |
 | 2024.10.17 | UE 5.4     | `Mappings_20241017.usmap` |
 | 2024.08.22 | UE 5.4     | `Mappings_20240822.usmap` |
 | 2024.06.14 | UE 5.3     | `Mappings_20240614.usmap` |
@@ -14,7 +15,7 @@ The latest mapping file was created using [UE4SS](https://github.com/UE4SS-RE/RE
 | 2023.12.14 | UE 5.3     | `Mappings_20231214.usmap` |
 | 2023.10.20 | UE 5.2     | `Mappings_20231020.usmap` |
 
-[1] To be precise, the mapping was created using `UE4SS_v3.0.1-149-g10c8a67` along with the following AOB:
+[1] To be precise, the mapping was created using `UE4SS_v3.0.1-215-g0b367ff` along with the following AOB:
 
 ```lua
 -- ue4ss/UE4SS_Signatures/FText_Constructor.lua
