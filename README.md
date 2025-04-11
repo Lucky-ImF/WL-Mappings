@@ -6,6 +6,7 @@ The latest mapping file was created using [UE4SS](https://github.com/UE4SS-RE/RE
 
 | Build      | UE version | Mapping file              |
 | ---------- | ---------- | ------------------------- |
+| 2025.04.11 | UE 5.4     | `Mappings_20250411.usmap` |
 | 2025.02.20 | UE 5.4     | `Mappings_20250220.usmap` |
 | 2024.12.13 | UE 5.4     | `Mappings_20241213.usmap` |
 | 2024.10.17 | UE 5.4     | `Mappings_20241017.usmap` |
@@ -29,4 +30,4 @@ function OnMatchFound(MatchAddress)
 end
 ```
 
-[2] `2025.02.20` was created using `zDEV-UE4SS_v3.0.1-321-gc62ada0`
+[2] `2025.04.11` was created using `zDEV-UE4SS_v3.0.1-321-gc62ada0`
