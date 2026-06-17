@@ -4,6 +4,7 @@ A collection of mapping (usmap) files for various Wild Life builds.
 
 | Build      | UE version | Mapping file              |
 | ---------- | ---------- | ------------------------- |
+| 2026.06.15 | UE 5.4     | `2026.06.15_Shipping_Full_Build_1.usmap` |
 | 2026.06.12 | UE 5.4     | `2026.06.12_Shipping_Full_Build_1.usmap` |
 | 2026.03.26 | UE 5.4     | `2026.03.26_Shipping_Full_Build_1.usmap` |
 | 2025.12.17 | UE 5.4     | `2025.12.17_Shipping_Full_Build_2.usmap` |
